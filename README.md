@@ -1,7 +1,6 @@
 <style>
-  h1{
-    text-align: center;
-  }
+  h1 {color:red;}
+  
 </style>
 <h1>Bem vindo(a) ao meu repositório. Meu nome é Gabriel!</h1>
 
