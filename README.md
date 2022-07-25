@@ -1,2 +1,5 @@
-Meu nome é Gabriel, tenho 18 anos e estou atualmente cursando análise e desenvolvimentos de sistemas, 1° Termo.
-Atualmente estou aprendendo HTML, CSS e Python.
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
