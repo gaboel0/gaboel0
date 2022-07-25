@@ -1,9 +1,9 @@
 
 <h1>Bem vindo(a) ao meu repositório. Meu nome é Gabriel!</h1>
 <br>
-<h1>Atualmente sou estagiário na UNIPAC, em pompéia
+<h1>Atualmente sou estagiário na UNIPAC, no interior de São Paulo, Brasil.
 <br>
-  <h1>Tenho conhecimento básico em <strong>HTML5, CSS, PYTHON</strong></h1>
+  <h1>Tenho conhecimento básico em <strong>HTML5, CSS, PYTHON.</strong></h1>
 <br>
 <h1>Estou aprendendo outras tecnologias front-end como Angular 
 
