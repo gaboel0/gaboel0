@@ -13,8 +13,8 @@
         As linguagens que tenho conhecimento são:
         <br>
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html" width="40" height="40">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40">
+         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html" width="40" height="40">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40">
         
     </div>
 </body>
