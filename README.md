@@ -24,6 +24,7 @@
             height="40"> 
         <br>
         Essas São minhas redes sociais:
+        <br>
         <a href="https://instagram.com/gabrielf1g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                           badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/gabriel-dos-santos-figueiredo-23583a229/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-               %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
