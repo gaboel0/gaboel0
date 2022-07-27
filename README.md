@@ -15,6 +15,10 @@
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40">
          <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html" width="40" height="40">
           <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40">
+        <br>
+        Estou aprendendo:
+        <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" widht="40" height="40">
+         <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" widht="40" height="40">
         
     </div>
 </body>
