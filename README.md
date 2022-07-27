@@ -21,7 +21,9 @@
         <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" widht="40" height="40">
          <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" widht="40" height="40">
         
-    <div>
+    </div>
+    <br>
+    Essas São minhas redes sociais:
 <a href="https://instagram.com/gabrielf1g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-figueiredo-23583a229/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
