@@ -6,7 +6,7 @@
     <div style="text-align:center;">
         Tenho 18 anos
         <br>
-        Atualmente estou no 2° Termo de Análise e Desenvolvimento de Sistemas.
+        Atualmente estou no 3° Termo de Análise e Desenvolvimento de Sistemas.
         <br>
         Atualmente sou um Estágiário na Área de T.I!
         <br>
