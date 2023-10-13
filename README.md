@@ -2,12 +2,15 @@
 ## Hi, i'm Gabriel ✌! (WebDevelopment enthusiastic)
 
 
-### You can find me in:
+## You can find me in:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-figueiredo-23583a229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gab0el/)
 
-
-![Gaboel GitHub stats](https://github-readme-stats.vercel.app/api?username=gaboel0&show_icons=true&theme=dracula)
+<div align=center>
+  
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboel0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180cm" widht="48%" src="https://github-readme-stats.vercel.app/api?username=gaboel0&show_icons=true&theme=dracula"/>
+</div>
 
 ### Day-a-day tecs
 
