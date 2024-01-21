@@ -1,5 +1,5 @@
 <div>
-  <h1>The Jigsaw Falls into place!</h1>
+
   <h2>Hi, im Gabriel, you can find me in:</h2>
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-figueiredo-23583a229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/gab0el"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
