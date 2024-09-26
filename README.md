@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-figueiredo-23583a229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/gab0el"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <br>
+  <h2> I've been studying Systems Analysis and Development, focusing more on the front-end area, but I want to direct my efforts towards the cloud area and similar services.</h2>
 </div>
 
 ### Day-a-day tecs
