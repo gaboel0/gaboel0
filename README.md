@@ -36,24 +36,9 @@ Currently, I'm expanding my knowledge in back-end development and cloud technolo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 💼 Professional Experience
-
-- **Unipac | Development Assistant** · March 2023 – Present
-- **Unipac | Development Intern** · June 2022 – March 2023
-
-Experience in front-end development and maintenance, interface design with Figma, version control with Git, and database management with MySQL.
-
 ### 🎯 Currently Focused On
 
 - Improving my software development skills
 - Expanding my back-end knowledge
 - Exploring cloud computing and related technologies
 
-### 🌎 Languages
-
-- **Portuguese:** Native
-- **English:** Advanced reading · Intermediate speaking and writing
-
----
-
-*Always learning, building, and improving.* 🚀
